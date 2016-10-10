@@ -25,3 +25,8 @@
 	font-size: 9px;
 	color: #555;
 }
+
+#storelocator-content {
+    max-height: 800px !important;
+    overflow: scroll;
+}
